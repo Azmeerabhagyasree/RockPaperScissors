@@ -1,3 +1,3 @@
 # RockPaperScissors
 
- https://Azmeerabhagyasree.github.io/RockPaperSxissors/index.html
+https://azmeerabhagyasree.github.io/RockPaperScissors/
